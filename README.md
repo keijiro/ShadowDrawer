@@ -27,7 +27,7 @@ Set this material to objects that receives shadows. Besides that, you should tur
 
 ![CastShadows](http://keijiro.github.io/ShadowDrawer/CastShadows.png)
 
-This is not mandatory but gives better results in most cases.
+This is not mandatory but gives proper results in most cases.
 
 License
 -------
