@@ -3,10 +3,12 @@ ShadowDrawer
 
 ShadowDrawer is a custom shader for Unity, which draws regions of shadows with a given color.
 
+![Screenshot](http://keijiro.github.io/ShadowDrawer/Screenshot.png)
+
 System Requirements
 -------------------
 
-- Unity 5.0 or later versions.
+- Unity 5.1 or later versions.
 
 Limitations
 -----------
@@ -19,7 +21,11 @@ Usage
 
 Create a material and change shader to Custom/ShadowDrawer. You can specify a color (rgb) and opacity (a) of shadows with the Shadow Color property. 
 
+![Property](http://keijiro.github.io/ShadowDrawer/Property.png)
+
 Set this material to objects that receives shadows. Besides that, you should turn off the Cast Shadows property on these objects.
+
+![CastShadows](http://keijiro.github.io/ShadowDrawer/CastShadows.png)
 
 This is not mandatory but gives better results in most cases.
 
