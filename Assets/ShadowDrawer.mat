@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ShadowDrawer
+  m_Shader: {fileID: 4800000, guid: a9d0f4ee4a87246c9aab09bffee42b41, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs: {}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: .449999988
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .0562283732, g: .0794953257, b: .191176474, a: .640999973}
