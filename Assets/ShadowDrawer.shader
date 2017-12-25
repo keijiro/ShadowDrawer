@@ -86,7 +86,7 @@ Shader "Custom/ShadowDrawer"
             CGPROGRAM
             #pragma vertex vert_shadow
             #pragma fragment frag_shadow
-            #pragma multi_compile_fwdbase
+            #pragma multi_compile_fwdadd_fullshadows
             ENDCG
         }
     }
